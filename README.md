@@ -16,7 +16,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-https://github.com/thanmai670/personal_expenses/tree/master/Images/Screenshot_1.jpeg
-https://github.com/thanmai670/personal_expenses/tree/master/Images/Screenshot_2.jpeg
-https://github.com/thanmai670/personal_expenses/tree/master/Images/Screenshot_3.jpeg
-https://github.com/thanmai670/personal_expenses/tree/master/Images/Screenshot_4.jpeg
